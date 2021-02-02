@@ -1,2 +1,3 @@
 rootProject.name = "git-res"
 include("common")
+include("test")

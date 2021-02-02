@@ -1,0 +1,4 @@
+dependencies {
+    implementation("org.springframework.boot:spring-boot-starter-web")
+    implementation("org.eclipse.jgit:org.eclipse.jgit.http.server:5.9.0.202009080501-r")
+}
